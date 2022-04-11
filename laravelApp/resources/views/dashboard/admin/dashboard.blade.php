@@ -40,7 +40,7 @@
             </a>
           </li>
           <li>
-            <a href="/add_category">
+            <a href="{{route('admin.addcategory')}}">
               <i class='bx bx-pie-chart-alt-2' ></i>
               <span class="links_name">الاقسام</span>
             </a>
